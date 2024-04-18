@@ -23,4 +23,7 @@ Instructions for upgrading the ZeroNoise Fearless Fury to a new firmware version
 | :--: | :-- |
 | Fury Intercom Unit | [Fury_v4.0.1_RELEASE.uf2](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/FURY_firmware_v4.x.x_RELEASE/Fury_v4.0.1_RELEASE.uf2) |
 
+## Latest user guides:
+ZeroNoise Fearless Fury instructions:<br />
+*   [ZeroNoise Fearless Fury user guide phone](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/FURY_user_guides/FURY_FEARLESS_UserGuidePhone.pdf) <br />
 
