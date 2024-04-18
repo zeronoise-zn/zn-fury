@@ -15,15 +15,15 @@ The ZeroNoise Fury Digital Intercom Amplifier uses adaptive noise cancelling tec
 
 ## Latest firmware update:
 Instructions for upgrading the ZeroNoise Fearless Fury to a new firmware version:<br />
-*   [ZeroNoise Fury firmware update user guide](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/ZeroNoiseWWSystemFirmwareUpdate_2024.pdf) <br />
+*   [ZeroNoise Fury firmware update user guide](https://github.com/zeronoise-zn/zn-fury/blob/master/ZeroNoiseWWSystemFirmwareUpdate_2024.pdf) <br />
 
 <br>
 
 | Firmware files | |
 | :--: | :-- |
-| Fury Intercom Unit | [Fury_v4.0.1_RELEASE.uf2](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/FURY_firmware_v4.x.x_RELEASE/Fury_v4.0.1_RELEASE.uf2) |
+| Fury Intercom Unit | [Fury_v4.0.1_RELEASE.uf2](https://github.com/zeronoise-zn/zn-fury/blob/master/FURY_firmware_v4.x.x_RELEASE/Fury_v4.0.1_RELEASE.uf2) |
 
 ## Latest user guides:
 ZeroNoise Fearless Fury instructions:<br />
-*   [ZeroNoise Fearless Fury user guide phone](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/FURY_user_guides/FURY_FEARLESS_UserGuidePhone.pdf) <br />
+*   [ZeroNoise Fearless Fury user guide phone](https://github.com/zeronoise-zn/zn-fury/blob/master/FURY_user_guides/FURY_FEARLESS_UserGuidePhone.pdf) <br />
 
