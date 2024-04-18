@@ -15,7 +15,7 @@ The ZeroNoise Fury Digital Intercom Amplifier uses adaptive noise cancelling tec
 
 ## Latest firmware update:
 Instructions for upgrading the ZeroNoise Fearless Fury to a new firmware version:<br />
-*   [ZeroNoise Fury firmware update user guide](https://github.com/zeronoise-zn/zn-fury/blob/master/ZeroNoiseWWSystemFirmwareUpdate_2024.pdf) <br />
+*   [ZeroNoise Fury firmware update user guide](https://github.com/zeronoise-zn/zn-fury/blob/master/ZeroNoiseFuryFirmwareUpdate_2024.pdf) <br />
 
 <br>
 
